@@ -19,8 +19,6 @@ Connect Four is a two-player connection board game, in which the players choose 
 ```
 
 ## Images
-![ConnectFour](https://user-images.githubusercontent.com/47762290/151710118-3643fd8d-14f1-49cc-917c-86b4eacbf691.png)
-
-![ConnectFour](https://user-images.githubusercontent.com/47762290/151710852-f9c884f2-b22f-4979-a4ed-e47cb8e8d217.png)
-
-![ConnectFour](https://user-images.githubusercontent.com/47762290/151710875-3dc4fe14-1823-4bc1-961c-0f5246c6823f.png)
+<img src="https://user-images.githubusercontent.com/47762290/151710118-3643fd8d-14f1-49cc-917c-86b4eacbf691.png" width="300" height="400" />
+<img src="https://user-images.githubusercontent.com/47762290/151710852-f9c884f2-b22f-4979-a4ed-e47cb8e8d217.png" width="300" height="400" />
+<img src="https://user-images.githubusercontent.com/47762290/151710875-3dc4fe14-1823-4bc1-961c-0f5246c6823f.png" width="300" height="400" />
